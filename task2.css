@@ -1,0 +1,35 @@
+
+.header-container .top-link-container {	
+    background: #1b252f;
+}
+.header-container .top-link-container .container .row{
+    padding-top: 15px;
+}
+.header-container .top-link-container{
+    color: #fff;
+}
+
+.header-container .top-link-container .top-link{
+    font-size: 14px;
+}
+
+.header-container .top-link-container .top-link li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.header-container .top-link-container .top-link a {
+    color: #fff;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+.cart{
+	text-align: center;
+}
+.logo{
+	text-align: center;
+	padding: 2px;
+}
+.copyright{
+  border-top: dotted; 
+}
